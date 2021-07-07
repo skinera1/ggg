@@ -1,0 +1,24 @@
+.fffff {
+    width: 100%;
+}
+.f { 
+    position: absolute;
+    max-width: 500px;
+    width: 100%;
+    height: 500px;
+    top: 20%;
+}
+.hika {
+    color: red;
+}
+.bg {
+    background-image: url(/img/martin-zaenkert-z-E2PJsmcTg-unsplash.jpg);
+    width: 100%;
+    max-width: 1920px; height: 1080px;
+    position: relative;
+}
+.p {
+    position: absolute;
+    top: 65%;
+    right: 20%;
+}
